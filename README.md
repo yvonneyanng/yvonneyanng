@@ -1,6 +1,6 @@
 ## Hi, Yvonne here 👋
 
-### Here are some technologies I've been working with / used in the projects listed in my profile:
+### Here are some technologies I've been working with:
 #### Frontend-related
 ![JavaScript](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
