@@ -16,13 +16,11 @@ I’m especially drawn to workflows that connect art and engineering — and I�
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
----
 
 ### 🕹️ 3D & Graphics
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
 
----
 
 ### ☁️ Cloud & Infrastructure
 ![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-3B9C61?logo=amazon-aws&logoColor=white&style=for-the-badge)
