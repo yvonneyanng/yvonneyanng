@@ -1,6 +1,5 @@
 ## Hi, Yvonne here 👋
-I'm currently studying IT with a focus on software development. My projects often blend creative tech with systems thinking: from developing tools across web, mobile, and 3D environments to building real-time telemetry for a Formula SAE race car.  
-I’m especially drawn to workflows that connect art and engineering — and I’m learning how creative processes and technical pipelines can support each other.
+I'm currently studying IT with a focus on software development. I like to build projects that blend creativity and tech, from small apps across web, mobile, animation sequence in 3D environments, to bigger system like real-time telemetry for a Formula SAE race car. 
 
 ## 🧰 Tech Stack Overview
 
@@ -28,6 +27,3 @@ I’m especially drawn to workflows that connect art and engineering — and I�
 ![API Gateway](https://img.shields.io/badge/API_Gateway-CC2264?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white&style=for-the-badge)
 
-
-### Leetcode stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/yvonneyanng)
