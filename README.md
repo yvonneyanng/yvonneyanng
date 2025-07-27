@@ -1,5 +1,5 @@
 ## Hi, Yvonne here 👋
-I'm currently studying IT with a focus on software development. I like to build projects that blend creativity and tech, from small apps across web, mobile, animation sequence in 3D environments, to bigger system like real-time telemetry for a Formula SAE race car. 
+I'm currently studying IT with a focus on software development. I like to build projects that blend creativity and tech, from small apps across web, mobile, animation sequence and games in 3D environments, to bigger system like real-time telemetry for a Formula SAE race car. 
 
 ## 🧰 Tech Stack Overview
 
