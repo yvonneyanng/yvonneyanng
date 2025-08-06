@@ -1,5 +1,5 @@
 ## Hi, Yvonne here 👋
-I'm currently studying IT with a focus on software development. I like to build projects that blend creativity and tech, from small apps across web, mobile, animation sequence and games in 3D environments, to bigger system like real-time telemetry for a Formula SAE race car. 
+I'm currently studying IT with a focus on software dev. I like to build things around creativity and tech fields, from small apps across web, mobile, animation sequence in 3D environments, to bigger system like real-time telemetry for a Formula SAE race car. 
 
 ## 🧰 Tech Stack Overview
 
@@ -21,7 +21,7 @@ I'm currently studying IT with a focus on software development. I like to build 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
 
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud
 ![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-3B9C61?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Timestream](https://img.shields.io/badge/Timestream-3F4FFF?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-CC2264?logo=amazon-aws&logoColor=white&style=for-the-badge)
